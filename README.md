@@ -16,5 +16,5 @@ Significance: F = 0.088 (p value) which is more than 0.05. So, the model is stat
 p-value of ‘Playing Experience with Current Team (years)’ = 0.0287
 p-value of ‘Total Years of Experience’ = 0.0275
 
-The p-values of both independent variables are significantly less than 0.05. Indicates that the corresponding regression coefficient is statistically significant, implying that the independent variable has a meaningful impact on the dependent variable.
+The p-values of both independent variables are significantly less than 0.05. Indicates that the corresponding regression coefficient is statistically significant, implying that the independent variables have a meaningful impact on the players salaries.
 The regression model is statistically significant.
