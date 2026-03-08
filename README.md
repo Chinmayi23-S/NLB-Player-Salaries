@@ -10,6 +10,7 @@ Skills Showed: #ExcelDataAnalysisTool
                #RegressionAnalysis
 
 Key Insights
+The Team Paying Highest Salaries was Log Vegas
 R-squared value = 0.0055 Therefore, 0.5% of the variance in the salary is explained by the model. 
 Significance: F = 0.088 (p value) which is more than 0.05. So, the model is statistically not significant. 
 
